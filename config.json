@@ -1,0 +1,17 @@
+{
+ 
+            "algo": null,
+            "coin": null,
+            "url": "ENTER YOUR POOL URL AND PORT, LEAVE BLANK FOR SOLO MINING ",
+            "user": "ENTER YOUR MONERO ADDRESS",
+            "pass": "LEAVE BLANK OR ENTER X",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "enabled": true,
+            "tls": true,
+            "socks5": null,
+            "self-select": null,
+            "submit-to-origin": false,
+            "donate-level": "TO SUPPORT LEAVE BLANK, ELSE ENTER 0 (DEFAULT==1)"
+        }
